@@ -1,0 +1,1 @@
+window.converterCoins = new CalcCurrency;
